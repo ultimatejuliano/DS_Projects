@@ -1,2 +1,2 @@
 # DS_Projects
-My DataScience projects using multiple languages and technologies.
+Here on this repository relies my Data Science projects using multiple languages and technologies.
